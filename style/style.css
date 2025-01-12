@@ -5,17 +5,13 @@
   font-weight: 400;
   font-style: normal;
 }
-
-body{
-  
-}
   /* nav style */
   .nv{
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 30px 160px;
-
+    
     
   }
 
@@ -25,7 +21,7 @@ body{
     font-size: 32px;
   }
 
-  button{
+  .si{
     
     padding: 15px 30px;
     border: #006A50 solid 1.5px;
@@ -35,3 +31,56 @@ body{
     color: #006A50;
     background-color: whitesmoke;
   }
+
+  /* hero style */
+
+  .hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    margin: 20px 160px 80px 160px;
+    border-radius: 24px;
+    
+  }
+  
+
+  .description-01{
+    margin: 37px 64px 37px 60px;
+  }
+  
+
+  .im{
+    margin: 0 60px 0 64px;
+    padding: 80px 0;
+  }
+  /* description-01-style */
+  .B-2{
+    color: rgba(14, 14, 14, 0.5);
+    font-weight: 500;
+    font-size: 24px;
+  }
+  .first{
+    font-weight: 700;
+    font-size: 56px;
+    color: rgba(14, 14, 14, 1);
+  }
+
+  .E-N-B{
+    padding: 17px 34px;
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 600;
+    font-size: 18px;
+    border: none;
+  }
+
+
+
+  
+
+  
+
+  
+  
