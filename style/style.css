@@ -1,0 +1,37 @@
+/* Font link */
+
+.fira-sans-regular {
+  font-family: "Fira Sans", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  
+}
+  /* nav style */
+  .nv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 30px 160px;
+
+    
+  }
+
+  h3{
+    
+    font-weight: 700;
+    font-size: 32px;
+  }
+
+  button{
+    
+    padding: 15px 30px;
+    border: #006A50 solid 1.5px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #006A50;
+    background-color: whitesmoke;
+  }
