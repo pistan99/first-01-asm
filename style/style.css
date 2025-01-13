@@ -92,6 +92,28 @@
     
   }
 
+  /* vision-info */
+  .vision-info{
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    margin: 32px 160px;
+    justify-content: space-between;
+  }
+  .dt{
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+  }
+  .ge{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+  }
+  .mi{
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+  }
+  
+
 
 
   
